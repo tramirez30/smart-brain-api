@@ -1,3 +1,3 @@
-#SmartBrain-api - v2
+# SmartBrain-api - v2
 
-Smartbrain Project From ZTM course. Uses postresSQL. NodeJS ExpressJS NPM.
+**Smartbrain Project From ZTM course. Uses postresSQL. NodeJS ExpressJS NPM.**
